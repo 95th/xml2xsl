@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="transform.xslt" ?>
+<dropdowns>
+  <dropdown name="xyz">
+    <option value="I">Info</option>
+    <option value="C">Category</option>
+  </dropdown>
+  <dropdown name="yes_no">
+    <option value="Y">Yes</option>
+    <option value="N">No</option>
+  </dropdown>
+</dropdowns>
